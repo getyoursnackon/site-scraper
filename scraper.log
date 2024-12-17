@@ -1,0 +1,502 @@
+2024-12-16 18:32:38,166 - INFO - ====== WebDriver manager ======
+2024-12-16 18:32:38,277 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-16 18:32:38,345 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-16 18:32:38,380 - INFO - There is no [mac64] chromedriver "131.0.6778.108" for browser google-chrome "131.0.6778" in cache
+2024-12-16 18:32:38,384 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-16 18:32:38,513 - INFO - WebDriver version 131.0.6778.108 selected
+2024-12-16 18:32:38,515 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.108/mac-arm64/chromedriver-mac-arm64.zip
+2024-12-16 18:32:38,515 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.108/mac-arm64/chromedriver-mac-arm64.zip
+2024-12-16 18:32:38,572 - INFO - Driver downloading response is 200
+2024-12-16 18:32:38,668 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-16 18:32:38,790 - INFO - Driver has been saved in cache [/Users/tom/.wdm/drivers/chromedriver/mac64/131.0.6778.108]
+2024-12-16 18:33:47,690 - INFO - ====== WebDriver manager ======
+2024-12-16 18:33:47,774 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-16 18:33:47,828 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-16 18:33:47,870 - INFO - Driver [/Users/tom/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-12-16 18:33:51,511 - INFO - ====== WebDriver manager ======
+2024-12-16 18:33:51,593 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-16 18:33:51,643 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-16 18:33:51,682 - INFO - Driver [/Users/tom/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-12-16 18:35:54,501 - INFO - ====== WebDriver manager ======
+2024-12-16 18:35:54,582 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-16 18:35:54,636 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-16 18:35:54,673 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-16 18:35:54,776 - INFO - WebDriver version 131.0.6778.108 selected
+2024-12-16 18:35:54,777 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.108/mac-arm64/chromedriver-mac-arm64.zip
+2024-12-16 18:35:54,778 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.108/mac-arm64/chromedriver-mac-arm64.zip
+2024-12-16 18:35:54,823 - INFO - Driver downloading response is 200
+2024-12-16 18:35:54,918 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-16 18:35:55,035 - INFO - Driver has been saved in cache [/Users/tom/.wdm/drivers/chromedriver/mac64/131.0.6778.108]
+2024-12-16 18:36:37,521 - INFO - patching driver executable /Users/tom/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-12-16 18:36:40,336 - INFO - Starting scrape of https://henryheffernan.com
+2024-12-16 18:36:40,337 - INFO - Processing: https://henryheffernan.com
+2024-12-16 18:36:40,874 - WARNING - Property: Unknown Property name. [1:44: pointer-events]
+2024-12-16 18:36:40,875 - ERROR - Property: Invalid value for "CSS Level 2.1" property: flex [1:113: display]
+2024-12-16 18:36:40,875 - WARNING - Property: Unknown Property name. [1:126: justify-content]
+2024-12-16 18:36:40,875 - WARNING - Property: Unknown Property name. [1:149: align-items]
+2024-12-16 18:36:40,876 - ERROR - Property: Invalid value for "CSS Level 2.1" property: flex [1:264: display]
+2024-12-16 18:36:40,876 - WARNING - Property: Unknown Property name. [1:277: justify-content]
+2024-12-16 18:36:40,876 - WARNING - Property: Unknown Property name. [1:300: align-items]
+2024-12-16 18:36:40,876 - WARNING - Property: Unknown Property name. [1:357: pointer-events]
+2024-12-16 18:36:40,876 - ERROR - Property: Invalid value for "CSS Level 2.1" property: "absolute" [1:377: position]
+2024-12-16 18:36:40,877 - WARNING - Property: Unknown Property name. [1:546: pointer-events]
+2024-12-16 18:36:40,939 - INFO - Downloaded: https://henryheffernan.com/main.css
+2024-12-16 18:36:40,972 - INFO - Downloaded: https://henryheffernan.com/bundle.cf64568055686c74.js
+2024-12-16 18:36:41,018 - INFO - Downloaded: https://www.googletagmanager.com/gtag/js?id=G-4FJBF6WF60
+2024-12-16 18:36:41,240 - INFO - Scraping completed!
+2024-12-16 18:37:27,305 - INFO - patching driver executable /Users/tom/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-12-16 18:37:30,080 - INFO - Starting scrape of https://henryheffernan.com
+2024-12-16 18:37:30,082 - INFO - Processing: https://henryheffernan.com
+2024-12-16 18:37:30,523 - WARNING - Property: Unknown Property name. [1:44: pointer-events]
+2024-12-16 18:37:30,524 - ERROR - Property: Invalid value for "CSS Level 2.1" property: flex [1:113: display]
+2024-12-16 18:37:30,524 - WARNING - Property: Unknown Property name. [1:126: justify-content]
+2024-12-16 18:37:30,524 - WARNING - Property: Unknown Property name. [1:149: align-items]
+2024-12-16 18:37:30,525 - ERROR - Property: Invalid value for "CSS Level 2.1" property: flex [1:264: display]
+2024-12-16 18:37:30,525 - WARNING - Property: Unknown Property name. [1:277: justify-content]
+2024-12-16 18:37:30,525 - WARNING - Property: Unknown Property name. [1:300: align-items]
+2024-12-16 18:37:30,525 - WARNING - Property: Unknown Property name. [1:357: pointer-events]
+2024-12-16 18:37:30,525 - ERROR - Property: Invalid value for "CSS Level 2.1" property: "absolute" [1:377: position]
+2024-12-16 18:37:30,526 - WARNING - Property: Unknown Property name. [1:546: pointer-events]
+2024-12-16 18:37:30,596 - INFO - Downloaded: https://henryheffernan.com/main.css
+2024-12-16 18:37:30,627 - INFO - Downloaded: https://henryheffernan.com/bundle.cf64568055686c74.js
+2024-12-16 18:37:30,665 - INFO - Downloaded: https://www.googletagmanager.com/gtag/js?id=G-4FJBF6WF60
+2024-12-16 18:37:30,822 - INFO - Scraping completed!
+2024-12-16 18:41:13,838 - INFO - patching driver executable /Users/tom/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-12-16 18:41:16,602 - INFO - Chrome initialized successfully
+2024-12-16 18:41:16,609 - INFO - Starting scrape of https://henryheffernan.com
+2024-12-16 18:41:16,609 - INFO - Processing page: https://henryheffernan.com
+2024-12-16 18:41:17,034 - ERROR - Property: Invalid value for "CSS Level 2.1" property: flex [1:113: display]
+2024-12-16 18:41:17,034 - ERROR - Property: Invalid value for "CSS Level 2.1" property: flex [1:264: display]
+2024-12-16 18:41:17,035 - ERROR - Property: Invalid value for "CSS Level 2.1" property: "absolute" [1:377: position]
+2024-12-16 18:41:17,037 - INFO - Found 223 resources to download
+2024-12-16 18:41:17,152 - WARNING - Failed to download https://henryheffernan.com/images/*.wav: Status 404
+2024-12-16 18:41:17,154 - WARNING - Failed to download https://henryheffernan.com/models/*.basis: Status 404
+2024-12-16 18:41:17,158 - WARNING - Failed to download https://henryheffernan.com/images/*.json: Status 404
+2024-12-16 18:41:17,158 - WARNING - Failed to download https://henryheffernan.com/textures/*.ktx: Status 404
+2024-12-16 18:41:17,159 - WARNING - Failed to download https://henryheffernan.com/draco/*.svg: Status 404
+2024-12-16 18:41:17,159 - WARNING - Failed to download https://henryheffernan.com/images/*.jpg: Status 404
+2024-12-16 18:41:17,161 - WARNING - Failed to download https://henryheffernan.com/models/*.mp3: Status 404
+2024-12-16 18:41:17,162 - WARNING - Failed to download https://henryheffernan.com/static/images/*.ogg: Status 404
+2024-12-16 18:41:17,163 - WARNING - Failed to download https://henryheffernan.com/models/*.webp: Status 404
+2024-12-16 18:41:17,165 - WARNING - Failed to download https://henryheffernan.com/models/*.ogg: Status 404
+2024-12-16 18:41:17,165 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.bin: Status 404
+2024-12-16 18:41:17,166 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.webp: Status 404
+2024-12-16 18:41:17,168 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.ktx2: Status 404
+2024-12-16 18:41:17,170 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.glb: Status 404
+2024-12-16 18:41:17,171 - WARNING - Failed to download https://henryheffernan.com/models/*.fbx: Status 404
+2024-12-16 18:41:17,171 - WARNING - Failed to download https://henryheffernan.com/audio/*.ogg: Status 404
+2024-12-16 18:41:17,172 - WARNING - Failed to download https://henryheffernan.com/static/models/*.fbx: Status 404
+2024-12-16 18:41:17,172 - WARNING - Failed to download https://henryheffernan.com/textures/*.obj: Status 404
+2024-12-16 18:41:17,174 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.webp: Status 404
+2024-12-16 18:41:17,175 - WARNING - Failed to download https://henryheffernan.com/draco/*.ktx2: Status 404
+2024-12-16 18:41:17,175 - WARNING - Failed to download https://henryheffernan.com/draco/*.dds: Status 404
+2024-12-16 18:41:17,175 - WARNING - Failed to download https://henryheffernan.com/audio/*.basis: Status 404
+2024-12-16 18:41:17,175 - WARNING - Failed to download https://henryheffernan.com/draco/*.basis: Status 404
+2024-12-16 18:41:17,175 - WARNING - Failed to download https://henryheffernan.com/static/models/*.jpeg: Status 404
+2024-12-16 18:41:17,176 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.gif: Status 404
+2024-12-16 18:41:17,176 - WARNING - Failed to download https://henryheffernan.com/textures/*.fbx: Status 404
+2024-12-16 18:41:17,177 - WARNING - Failed to download https://henryheffernan.com/images/*.webp: Status 404
+2024-12-16 18:41:17,177 - WARNING - Failed to download https://henryheffernan.com/static/images/*.dds: Status 404
+2024-12-16 18:41:17,177 - WARNING - Failed to download https://henryheffernan.com/static/images/*.bin: Status 404
+2024-12-16 18:41:17,178 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.ktx: Status 404
+2024-12-16 18:41:17,178 - WARNING - Failed to download https://henryheffernan.com/static/models/*.wasm: Status 404
+2024-12-16 18:41:17,178 - WARNING - Failed to download https://henryheffernan.com/audio/*.stl: Status 404
+2024-12-16 18:41:17,178 - WARNING - Failed to download https://henryheffernan.com/static/models/*.drc: Status 404
+2024-12-16 18:41:17,179 - WARNING - Failed to download https://henryheffernan.com/audio/*.fbx: Status 404
+2024-12-16 18:41:17,179 - WARNING - Failed to download https://henryheffernan.com/static/images/*.fbx: Status 404
+2024-12-16 18:41:17,180 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.dds: Status 404
+2024-12-16 18:41:17,181 - WARNING - Failed to download https://henryheffernan.com/textures/*.drc: Status 404
+2024-12-16 18:41:17,181 - WARNING - Failed to download https://henryheffernan.com/draco/*.json: Status 404
+2024-12-16 18:41:17,181 - WARNING - Failed to download https://henryheffernan.com/static/images/*.png: Status 404
+2024-12-16 18:41:17,182 - WARNING - Failed to download https://henryheffernan.com/models/*.dds: Status 404
+2024-12-16 18:41:17,182 - WARNING - Failed to download https://henryheffernan.com/images/*.gltf: Status 404
+2024-12-16 18:41:17,182 - WARNING - Failed to download https://henryheffernan.com/draco/*.drc: Status 404
+2024-12-16 18:41:17,182 - WARNING - Failed to download https://henryheffernan.com/draco/*.wav: Status 404
+2024-12-16 18:41:17,183 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.json: Status 404
+2024-12-16 18:41:17,183 - WARNING - Failed to download https://henryheffernan.com/images/*.wasm: Status 404
+2024-12-16 18:41:17,183 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.jpg: Status 404
+2024-12-16 18:41:17,183 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.gif: Status 404
+2024-12-16 18:41:17,183 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.wasm: Status 404
+2024-12-16 18:41:17,184 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.basis: Status 404
+2024-12-16 18:41:17,184 - WARNING - Failed to download https://henryheffernan.com/models/*.svg: Status 404
+2024-12-16 18:41:17,184 - WARNING - Failed to download https://henryheffernan.com/audio/*.ktx: Status 404
+2024-12-16 18:41:17,184 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.json: Status 404
+2024-12-16 18:41:17,184 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.jpeg: Status 404
+2024-12-16 18:41:17,184 - WARNING - Failed to download https://henryheffernan.com/audio/*.gltf: Status 404
+2024-12-16 18:41:17,185 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.basis: Status 404
+2024-12-16 18:41:17,185 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.gltf: Status 404
+2024-12-16 18:41:17,186 - WARNING - Failed to download https://henryheffernan.com/static/models/*.wav: Status 404
+2024-12-16 18:41:17,186 - WARNING - Failed to download https://henryheffernan.com/draco/*.stl: Status 404
+2024-12-16 18:41:17,186 - WARNING - Failed to download https://henryheffernan.com/models/*.jpg: Status 404
+2024-12-16 18:41:17,186 - WARNING - Failed to download https://henryheffernan.com/textures/*.bin: Status 404
+2024-12-16 18:41:17,186 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.stl: Status 404
+2024-12-16 18:41:17,187 - WARNING - Failed to download https://henryheffernan.com/audio/*.json: Status 404
+2024-12-16 18:41:17,187 - WARNING - Failed to download https://henryheffernan.com/static/models/*.bin: Status 404
+2024-12-16 18:41:17,187 - WARNING - Failed to download https://henryheffernan.com/models/*.bin: Status 404
+2024-12-16 18:41:17,187 - WARNING - Failed to download https://henryheffernan.com/audio/*.png: Status 404
+2024-12-16 18:41:17,188 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.jpg: Status 404
+2024-12-16 18:41:17,189 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.fbx: Status 404
+2024-12-16 18:41:17,189 - WARNING - Failed to download https://henryheffernan.com/draco/*.mp3: Status 404
+2024-12-16 18:41:17,190 - WARNING - Failed to download https://henryheffernan.com/audio/*.gif: Status 404
+2024-12-16 18:41:17,190 - WARNING - Failed to download https://henryheffernan.com/static/models/*.png: Status 404
+2024-12-16 18:41:17,191 - WARNING - Failed to download https://henryheffernan.com/static/images/*.ktx2: Status 404
+2024-12-16 18:41:17,191 - WARNING - Failed to download https://henryheffernan.com/images/*.ktx: Status 404
+2024-12-16 18:41:17,191 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.glb: Status 404
+2024-12-16 18:41:17,191 - WARNING - Failed to download https://henryheffernan.com/static/models/*.stl: Status 404
+2024-12-16 18:41:17,191 - WARNING - Failed to download https://henryheffernan.com/models/*.gltf: Status 404
+2024-12-16 18:41:17,191 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.jpeg: Status 404
+2024-12-16 18:41:17,192 - WARNING - Failed to download https://henryheffernan.com/textures/*.jpeg: Status 404
+2024-12-16 18:41:17,192 - WARNING - Failed to download https://henryheffernan.com/images/*.jpeg: Status 404
+2024-12-16 18:41:17,192 - WARNING - Failed to download https://henryheffernan.com/images/*.png: Status 404
+2024-12-16 18:41:17,193 - WARNING - Failed to download https://henryheffernan.com/draco/*.ktx: Status 404
+2024-12-16 18:41:17,193 - WARNING - Failed to download https://henryheffernan.com/draco/*.glb: Status 404
+2024-12-16 18:41:17,193 - WARNING - Failed to download https://henryheffernan.com/static/images/*.ktx: Status 404
+2024-12-16 18:41:17,193 - WARNING - Failed to download https://henryheffernan.com/static/images/*.mp3: Status 404
+2024-12-16 18:41:17,193 - WARNING - Failed to download https://henryheffernan.com/static/images/*.obj: Status 404
+2024-12-16 18:41:17,193 - WARNING - Failed to download https://henryheffernan.com/audio/*.obj: Status 404
+2024-12-16 18:41:17,194 - WARNING - Failed to download https://henryheffernan.com/images/*.fbx: Status 404
+2024-12-16 18:41:17,194 - WARNING - Failed to download https://henryheffernan.com/audio/*.mp3: Status 404
+2024-12-16 18:41:17,194 - WARNING - Failed to download https://henryheffernan.com/models/*.ktx: Status 404
+2024-12-16 18:41:17,195 - WARNING - Failed to download https://henryheffernan.com/textures/*.ogg: Status 404
+2024-12-16 18:41:17,195 - WARNING - Failed to download https://henryheffernan.com/textures/*.basis: Status 404
+2024-12-16 18:41:17,195 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.ogg: Status 404
+2024-12-16 18:41:17,195 - WARNING - Failed to download https://henryheffernan.com/images/*.ogg: Status 404
+2024-12-16 18:41:17,195 - WARNING - Failed to download https://henryheffernan.com/models/*.wasm: Status 404
+2024-12-16 18:41:17,196 - WARNING - Failed to download https://henryheffernan.com/draco/*.fbx: Status 404
+2024-12-16 18:41:17,196 - WARNING - Failed to download https://henryheffernan.com/models/*.gif: Status 404
+2024-12-16 18:41:17,196 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.ktx2: Status 404
+2024-12-16 18:41:17,196 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.svg: Status 404
+2024-12-16 18:41:17,197 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.wav: Status 404
+2024-12-16 18:41:17,197 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.gltf: Status 404
+2024-12-16 18:41:17,197 - WARNING - Failed to download https://henryheffernan.com/static/images/*.basis: Status 404
+2024-12-16 18:41:17,197 - WARNING - Failed to download https://henryheffernan.com/textures/*.stl: Status 404
+2024-12-16 18:41:17,197 - WARNING - Failed to download https://henryheffernan.com/models/*.png: Status 404
+2024-12-16 18:41:17,197 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.fbx: Status 404
+2024-12-16 18:41:17,198 - WARNING - Failed to download https://henryheffernan.com/models/*.stl: Status 404
+2024-12-16 18:41:17,198 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.mp3: Status 404
+2024-12-16 18:41:17,198 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.drc: Status 404
+2024-12-16 18:41:17,200 - WARNING - Failed to download https://henryheffernan.com/static/models/*.dds: Status 404
+2024-12-16 18:41:17,201 - WARNING - Failed to download https://henryheffernan.com/textures/*.json: Status 404
+2024-12-16 18:41:17,201 - WARNING - Failed to download https://henryheffernan.com/static/models/*.jpg: Status 404
+2024-12-16 18:41:17,201 - WARNING - Failed to download https://henryheffernan.com/draco/*.ogg: Status 404
+2024-12-16 18:41:17,202 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.wasm: Status 404
+2024-12-16 18:41:17,202 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.jpg: Status 404
+2024-12-16 18:41:17,202 - WARNING - Failed to download https://henryheffernan.com/audio/*.svg: Status 404
+2024-12-16 18:41:17,203 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.ogg: Status 404
+2024-12-16 18:41:17,204 - WARNING - Failed to download https://henryheffernan.com/images/*.mp3: Status 404
+2024-12-16 18:41:17,205 - WARNING - Failed to download https://henryheffernan.com/draco/*.jpg: Status 404
+2024-12-16 18:41:17,205 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.dds: Status 404
+2024-12-16 18:41:17,206 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.png: Status 404
+2024-12-16 18:41:17,206 - WARNING - Failed to download https://henryheffernan.com/textures/*.dds: Status 404
+2024-12-16 18:41:17,206 - WARNING - Failed to download https://henryheffernan.com/textures/*.ktx2: Status 404
+2024-12-16 18:41:17,207 - WARNING - Failed to download https://henryheffernan.com/static/images/*.json: Status 404
+2024-12-16 18:41:17,208 - WARNING - Failed to download https://henryheffernan.com/static/images/*.jpeg: Status 404
+2024-12-16 18:41:17,208 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.svg: Status 404
+2024-12-16 18:41:17,208 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.mp3: Status 404
+2024-12-16 18:41:17,208 - WARNING - Failed to download https://henryheffernan.com/draco/*.bin: Status 404
+2024-12-16 18:41:17,208 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.gif: Status 404
+2024-12-16 18:41:17,208 - WARNING - Failed to download https://henryheffernan.com/static/models/*.svg: Status 404
+2024-12-16 18:41:17,208 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.ogg: Status 404
+2024-12-16 18:41:17,209 - WARNING - Failed to download https://henryheffernan.com/draco/*.webp: Status 404
+2024-12-16 18:41:17,209 - WARNING - Failed to download https://henryheffernan.com/static/models/*.mp3: Status 404
+2024-12-16 18:41:17,209 - WARNING - Failed to download https://henryheffernan.com/audio/*.jpg: Status 404
+2024-12-16 18:41:17,209 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.ktx2: Status 404
+2024-12-16 18:41:17,209 - WARNING - Failed to download https://henryheffernan.com/textures/*.svg: Status 404
+2024-12-16 18:41:17,209 - WARNING - Failed to download https://henryheffernan.com/models/*.drc: Status 404
+2024-12-16 18:41:17,210 - WARNING - Failed to download https://henryheffernan.com/textures/*.wasm: Status 404
+2024-12-16 18:41:17,210 - WARNING - Failed to download https://henryheffernan.com/draco/*.gif: Status 404
+2024-12-16 18:41:17,210 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.json: Status 404
+2024-12-16 18:41:17,211 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.ktx: Status 404
+2024-12-16 18:41:17,211 - WARNING - Failed to download https://henryheffernan.com/static/models/*.ogg: Status 404
+2024-12-16 18:41:17,211 - WARNING - Failed to download https://henryheffernan.com/textures/*.gltf: Status 404
+2024-12-16 18:41:17,211 - WARNING - Failed to download https://henryheffernan.com/images/*.obj: Status 404
+2024-12-16 18:41:17,211 - WARNING - Failed to download https://henryheffernan.com/textures/*.wav: Status 404
+2024-12-16 18:41:17,211 - WARNING - Failed to download https://henryheffernan.com/static/models/*.basis: Status 404
+2024-12-16 18:41:17,212 - WARNING - Failed to download https://henryheffernan.com/audio/*.jpeg: Status 404
+2024-12-16 18:41:17,212 - WARNING - Failed to download https://henryheffernan.com/textures/*.mp3: Status 404
+2024-12-16 18:41:17,212 - WARNING - Failed to download https://henryheffernan.com/images/*.drc: Status 404
+2024-12-16 18:41:17,212 - WARNING - Failed to download https://henryheffernan.com/models/*.jpeg: Status 404
+2024-12-16 18:41:17,212 - WARNING - Failed to download https://henryheffernan.com/static/images/*.jpg: Status 404
+2024-12-16 18:41:17,213 - WARNING - Failed to download https://henryheffernan.com/static/images/*.gif: Status 404
+2024-12-16 18:41:17,213 - WARNING - Failed to download https://henryheffernan.com/audio/*.dds: Status 404
+2024-12-16 18:41:17,213 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.gltf: Status 404
+2024-12-16 18:41:17,213 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.wasm: Status 404
+2024-12-16 18:41:17,213 - WARNING - Failed to download https://henryheffernan.com/images/*.basis: Status 404
+2024-12-16 18:41:17,213 - WARNING - Failed to download https://henryheffernan.com/draco/*.gltf: Status 404
+2024-12-16 18:41:17,213 - WARNING - Failed to download https://henryheffernan.com/static/models/*.webp: Status 404
+2024-12-16 18:41:17,214 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.fbx: Status 404
+2024-12-16 18:41:17,214 - WARNING - Failed to download https://henryheffernan.com/static/models/*.ktx: Status 404
+2024-12-16 18:41:17,214 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.wav: Status 404
+2024-12-16 18:41:17,214 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.png: Status 404
+2024-12-16 18:41:17,214 - WARNING - Failed to download https://henryheffernan.com/audio/*.ktx2: Status 404
+2024-12-16 18:41:17,214 - WARNING - Failed to download https://henryheffernan.com/draco/*.obj: Status 404
+2024-12-16 18:41:17,214 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.drc: Status 404
+2024-12-16 18:41:17,214 - WARNING - Failed to download https://henryheffernan.com/draco/*.png: Status 404
+2024-12-16 18:41:17,215 - WARNING - Failed to download https://henryheffernan.com/models/*.wav: Status 404
+2024-12-16 18:41:17,215 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.obj: Status 404
+2024-12-16 18:41:17,215 - INFO - Downloaded: https://www.googletagmanager.com/gtag/js?id=G-4FJBF6WF60 -> scraped_site/assets/js
+2024-12-16 18:41:17,215 - WARNING - Failed to download https://henryheffernan.com/draco/*.jpeg: Status 404
+2024-12-16 18:41:17,216 - WARNING - Failed to download https://henryheffernan.com/textures/*.webp: Status 404
+2024-12-16 18:41:17,216 - WARNING - Failed to download https://henryheffernan.com/static/images/*.wasm: Status 404
+2024-12-16 18:41:17,216 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.obj: Status 404
+2024-12-16 18:41:17,216 - WARNING - Failed to download https://henryheffernan.com/models/*.glb: Status 404
+2024-12-16 18:41:17,216 - WARNING - Failed to download https://henryheffernan.com/static/images/*.stl: Status 404
+2024-12-16 18:41:17,216 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.wav: Status 404
+2024-12-16 18:41:17,216 - WARNING - Failed to download https://henryheffernan.com/textures/*.glb: Status 404
+2024-12-16 18:41:17,216 - WARNING - Failed to download https://henryheffernan.com/audio/*.glb: Status 404
+2024-12-16 18:41:17,217 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.obj: Status 404
+2024-12-16 18:41:17,217 - WARNING - Failed to download https://henryheffernan.com/models/*.json: Status 404
+2024-12-16 18:41:17,217 - WARNING - Failed to download https://henryheffernan.com/static/images/*.glb: Status 404
+2024-12-16 18:41:17,217 - WARNING - Failed to download https://henryheffernan.com/images/*.dds: Status 404
+2024-12-16 18:41:17,217 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.mp3: Status 404
+2024-12-16 18:41:17,217 - WARNING - Failed to download https://henryheffernan.com/static/models/*.glb: Status 404
+2024-12-16 18:41:17,218 - WARNING - Failed to download https://henryheffernan.com/images/*.svg: Status 404
+2024-12-16 18:41:17,218 - WARNING - Failed to download https://henryheffernan.com/images/*.stl: Status 404
+2024-12-16 18:41:17,218 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.bin: Status 404
+2024-12-16 18:41:17,218 - WARNING - Failed to download https://henryheffernan.com/static/models/*.ktx2: Status 404
+2024-12-16 18:41:17,219 - WARNING - Failed to download https://henryheffernan.com/images/*.bin: Status 404
+2024-12-16 18:41:17,219 - WARNING - Failed to download https://henryheffernan.com/images/*.glb: Status 404
+2024-12-16 18:41:17,219 - WARNING - Failed to download https://henryheffernan.com/textures/*.jpg: Status 404
+2024-12-16 18:41:17,219 - WARNING - Failed to download https://henryheffernan.com/audio/*.bin: Status 404
+2024-12-16 18:41:17,219 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.png: Status 404
+2024-12-16 18:41:17,219 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.dds: Status 404
+2024-12-16 18:41:17,219 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.webp: Status 404
+2024-12-16 18:41:17,219 - WARNING - Failed to download https://henryheffernan.com/images/*.ktx2: Status 404
+2024-12-16 18:41:17,219 - WARNING - Failed to download https://henryheffernan.com/static/images/*.svg: Status 404
+2024-12-16 18:41:17,219 - WARNING - Failed to download https://henryheffernan.com/textures/*.png: Status 404
+2024-12-16 18:41:17,219 - WARNING - Failed to download https://henryheffernan.com/static/models/*.gltf: Status 404
+2024-12-16 18:41:17,220 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.basis: Status 404
+2024-12-16 18:41:17,220 - WARNING - Failed to download https://henryheffernan.com/static/images/*.webp: Status 404
+2024-12-16 18:41:17,220 - WARNING - Failed to download https://henryheffernan.com/audio/*.wasm: Status 404
+2024-12-16 18:41:17,220 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.jpeg: Status 404
+2024-12-16 18:41:17,221 - WARNING - Failed to download https://henryheffernan.com/static/models/*.obj: Status 404
+2024-12-16 18:41:17,221 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.stl: Status 404
+2024-12-16 18:41:17,221 - WARNING - Failed to download https://henryheffernan.com/static/models/*.json: Status 404
+2024-12-16 18:41:17,223 - WARNING - Failed to download https://henryheffernan.com/images/*.gif: Status 404
+2024-12-16 18:41:17,224 - INFO - Downloaded: https://henryheffernan.com/main.css -> scraped_site/css/main.css
+2024-12-16 18:41:17,224 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.ktx: Status 404
+2024-12-16 18:41:17,224 - WARNING - Failed to download https://henryheffernan.com/models/*.obj: Status 404
+2024-12-16 18:41:17,225 - WARNING - Failed to download https://henryheffernan.com/static/models/*.gif: Status 404
+2024-12-16 18:41:17,229 - WARNING - Failed to download https://henryheffernan.com/static/audio/*.glb: Status 404
+2024-12-16 18:41:17,234 - WARNING - Failed to download https://henryheffernan.com/static/images/*.wav: Status 404
+2024-12-16 18:41:17,235 - WARNING - Failed to download https://henryheffernan.com/audio/*.webp: Status 404
+2024-12-16 18:41:17,240 - WARNING - Failed to download https://henryheffernan.com/static/draco/*.stl: Status 404
+2024-12-16 18:41:17,241 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.svg: Status 404
+2024-12-16 18:41:17,242 - WARNING - Failed to download https://henryheffernan.com/audio/*.drc: Status 404
+2024-12-16 18:41:17,243 - WARNING - Failed to download https://henryheffernan.com/static/images/*.drc: Status 404
+2024-12-16 18:41:17,244 - WARNING - Failed to download https://henryheffernan.com/models/*.ktx2: Status 404
+2024-12-16 18:41:17,245 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.drc: Status 404
+2024-12-16 18:41:17,246 - WARNING - Failed to download https://henryheffernan.com/static/images/*.gltf: Status 404
+2024-12-16 18:41:17,247 - WARNING - Failed to download https://henryheffernan.com/audio/*.wav: Status 404
+2024-12-16 18:41:17,248 - WARNING - Failed to download https://henryheffernan.com/static/textures/*.bin: Status 404
+2024-12-16 18:41:17,252 - WARNING - Failed to download https://henryheffernan.com/draco/*.wasm: Status 404
+2024-12-16 18:41:17,275 - WARNING - Failed to download https://henryheffernan.com/textures/*.gif: Status 404
+2024-12-16 18:41:17,284 - INFO - Downloaded: https://henryheffernan.com/bundle.cf64568055686c74.js -> scraped_site/js/bundle.cf64568055686c74.js
+2024-12-16 18:41:17,286 - INFO - Scraping completed! Downloaded 3 files
+2024-12-16 18:41:17,286 - INFO - Files saved in: scraped_site
+2024-12-16 18:42:41,973 - INFO - patching driver executable /Users/tom/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-12-16 18:42:44,740 - INFO - Chrome initialized successfully
+2024-12-16 18:42:44,741 - INFO - Starting scrape of https://henryheffernan.com
+2024-12-16 18:42:44,741 - INFO - Processing page: https://henryheffernan.com
+2024-12-16 18:42:45,567 - INFO - Found 7 resources to download
+2024-12-16 18:42:45,628 - WARNING - Failed to download https://henryheffernan.com/gtm.js: Status 404
+2024-12-16 18:42:45,636 - INFO - Downloaded: https://henryheffernan.com/main.css -> scraped_site/css/main.css
+2024-12-16 18:42:45,651 - INFO - Downloaded: https://henryheffernan.com/images/preview-new.jpg -> scraped_site/images/preview-new.jpg
+2024-12-16 18:42:45,653 - INFO - Downloaded: https://henryheffernan.com/bundle.cf64568055686c74.js -> scraped_site/js/bundle.cf64568055686c74.js
+2024-12-16 18:42:45,725 - INFO - Downloaded: https://henryheffernan.com/78d1c080b40532e6.mp4 -> scraped_site/assets/78d1c080b40532e6.mp4
+2024-12-16 18:42:45,727 - INFO - Downloaded: https://henryheffernan.com/c28874fa5b347023.mp4 -> scraped_site/assets/c28874fa5b347023.mp4
+2024-12-16 18:42:45,832 - INFO - Downloaded: https://www.googletagmanager.com/gtag/js?id=G-4FJBF6WF60 -> scraped_site/assets/js
+2024-12-16 18:42:45,832 - INFO - Scraping completed! Downloaded 6 files
+2024-12-16 18:42:45,832 - INFO - Files saved in: scraped_site
+2024-12-16 18:44:38,068 - INFO - patching driver executable /Users/tom/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-12-16 18:44:40,832 - INFO - Chrome initialized successfully
+2024-12-16 18:44:40,834 - INFO - Starting scrape of https://henryheffernan.com
+2024-12-16 18:44:40,834 - INFO - Processing page: https://henryheffernan.com
+2024-12-16 18:44:41,686 - INFO - Found 21 resources to download
+2024-12-16 18:44:41,756 - WARNING - Failed to download https://henryheffernan.com/@emotion/is-prop-valid: Status 404
+2024-12-16 18:44:41,767 - WARNING - Failed to download https://henryheffernan.com/gtm.js: Status 404
+2024-12-16 18:44:41,772 - INFO - Downloaded: https://henryheffernan.com/main.css -> scraped_site/css/main.css
+2024-12-16 18:44:41,773 - INFO - Downloaded: https://henryheffernan.com/assets/images/e2b639cbd11be706.svg -> scraped_site/images/e2b639cbd11be706.svg
+2024-12-16 18:44:41,774 - INFO - Downloaded: https://henryheffernan.com/assets/images/8bbd53f7e797a91c.svg -> scraped_site/images/8bbd53f7e797a91c.svg
+2024-12-16 18:44:41,778 - INFO - Downloaded: https://henryheffernan.com/assets/images/0a262c7c9669cd40.svg -> scraped_site/images/0a262c7c9669cd40.svg
+2024-12-16 18:44:41,786 - INFO - Downloaded: https://henryheffernan.com/images/preview-new.jpg -> scraped_site/images/preview-new.jpg
+2024-12-16 18:44:41,787 - INFO - Downloaded: https://henryheffernan.com/models/World/environment.glb -> scraped_site/models/environment.glb
+2024-12-16 18:44:41,788 - INFO - Downloaded: https://henryheffernan.com/bundle.cf64568055686c74.js -> scraped_site/js/bundle.cf64568055686c74.js
+2024-12-16 18:44:41,789 - INFO - Downloaded: https://henryheffernan.com/models/Computer/computer_setup.glb -> scraped_site/models/computer_setup.glb
+2024-12-16 18:44:41,799 - INFO - Downloaded: https://henryheffernan.com/models/Decor/baked_decor_modified.jpg -> scraped_site/images/baked_decor_modified.jpg
+2024-12-16 18:44:41,800 - INFO - Downloaded: https://henryheffernan.com/textures/monitor/layers/compressed/shadow-compressed.png -> scraped_site/images/shadow-compressed.png
+2024-12-16 18:44:41,800 - INFO - Downloaded: https://henryheffernan.com/models/Decor/decor.glb -> scraped_site/models/decor.glb
+2024-12-16 18:44:41,800 - INFO - Downloaded: https://henryheffernan.com/textures/monitor/layers/compressed/smudges.jpg -> scraped_site/images/smudges.jpg
+2024-12-16 18:44:41,801 - INFO - Downloaded: https://henryheffernan.com/models/World/baked_environment.jpg -> scraped_site/images/baked_environment.jpg
+2024-12-16 18:44:41,801 - INFO - Downloaded: https://henryheffernan.com/assets/images/fa9623e40006eda6.svg -> scraped_site/images/fa9623e40006eda6.svg
+2024-12-16 18:44:41,811 - INFO - Downloaded: https://henryheffernan.com/models/Computer/baked_computer.jpg -> scraped_site/images/baked_computer.jpg
+2024-12-16 18:44:41,828 - INFO - Downloaded: https://henryheffernan.com/c28874fa5b347023.mp4 -> scraped_site/assets/c28874fa5b347023.mp4
+2024-12-16 18:44:41,955 - INFO - Downloaded: https://www.googletagmanager.com/gtag/js?id=G-4FJBF6WF60 -> scraped_site/assets/js
+2024-12-16 18:44:41,971 - INFO - Downloaded: https://henryheffernan.com/78d1c080b40532e6.mp4 -> scraped_site/assets/78d1c080b40532e6.mp4
+2024-12-16 18:44:41,972 - INFO - Scraping completed! Downloaded 18 files
+2024-12-16 18:44:41,972 - INFO - Files saved in: scraped_site
+2024-12-16 18:46:41,010 - INFO - patching driver executable /Users/tom/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-12-16 18:46:43,768 - INFO - Chrome initialized successfully
+2024-12-16 18:46:43,768 - INFO - Starting scrape of https://henryheffernan.com
+2024-12-16 18:46:43,768 - INFO - Processing page: https://henryheffernan.com
+2024-12-16 18:46:44,611 - INFO - Found 21 resources to download
+2024-12-16 18:46:44,680 - INFO - Downloaded: https://henryheffernan.com/assets/images/8bbd53f7e797a91c.svg -> scraped_site/assets/images/8bbd53f7e797a91c.svg
+2024-12-16 18:46:44,681 - INFO - Downloaded: https://henryheffernan.com/ -> scraped_site/index.html
+2024-12-16 18:46:44,684 - INFO - Downloaded: https://henryheffernan.com/assets/images/e2b639cbd11be706.svg -> scraped_site/assets/images/e2b639cbd11be706.svg
+2024-12-16 18:46:44,685 - INFO - Downloaded: https://henryheffernan.com/main.css -> scraped_site/main.css
+2024-12-16 18:46:44,688 - WARNING - Failed to download https://henryheffernan.com/gtm.js: Status 404
+2024-12-16 18:46:44,688 - INFO - Downloaded: https://henryheffernan.com/assets/images/fa9623e40006eda6.svg -> scraped_site/assets/images/fa9623e40006eda6.svg
+2024-12-16 18:46:44,689 - INFO - Downloaded: https://henryheffernan.com/textures/monitor/layers/compressed/shadow-compressed.png -> scraped_site/textures/monitor/layers/compressed/shadow-compressed.png
+2024-12-16 18:46:44,690 - INFO - Downloaded: https://henryheffernan.com/models/World/environment.glb -> scraped_site/models/World/environment.glb
+2024-12-16 18:46:44,690 - WARNING - Failed to download https://henryheffernan.com/@emotion/is-prop-valid: Status 404
+2024-12-16 18:46:44,690 - INFO - Downloaded: https://henryheffernan.com/assets/images/0a262c7c9669cd40.svg -> scraped_site/assets/images/0a262c7c9669cd40.svg
+2024-12-16 18:46:44,696 - INFO - Downloaded: https://henryheffernan.com/models/Computer/computer_setup.glb -> scraped_site/models/Computer/computer_setup.glb
+2024-12-16 18:46:44,698 - INFO - Downloaded: https://henryheffernan.com/models/Decor/decor.glb -> scraped_site/models/Decor/decor.glb
+2024-12-16 18:46:44,698 - INFO - Downloaded: https://henryheffernan.com/images/preview-new.jpg -> scraped_site/images/preview-new.jpg
+2024-12-16 18:46:44,719 - INFO - Downloaded: https://henryheffernan.com/bundle.cf64568055686c74.js -> scraped_site/bundle.cf64568055686c74.js
+2024-12-16 18:46:44,724 - INFO - Downloaded: https://henryheffernan.com/textures/monitor/layers/compressed/smudges.jpg -> scraped_site/textures/monitor/layers/compressed/smudges.jpg
+2024-12-16 18:46:44,729 - INFO - Downloaded: https://henryheffernan.com/models/Decor/baked_decor_modified.jpg -> scraped_site/models/Decor/baked_decor_modified.jpg
+2024-12-16 18:46:44,744 - INFO - Downloaded: https://henryheffernan.com/models/World/baked_environment.jpg -> scraped_site/models/World/baked_environment.jpg
+2024-12-16 18:46:44,749 - INFO - Downloaded: https://henryheffernan.com/models/Computer/baked_computer.jpg -> scraped_site/models/Computer/baked_computer.jpg
+2024-12-16 18:46:44,786 - INFO - Downloaded: https://henryheffernan.com/c28874fa5b347023.mp4 -> scraped_site/c28874fa5b347023.mp4
+2024-12-16 18:46:44,789 - INFO - Downloaded: https://henryheffernan.com/78d1c080b40532e6.mp4 -> scraped_site/78d1c080b40532e6.mp4
+2024-12-16 18:46:44,891 - INFO - Scraping completed! Downloaded 18 files
+2024-12-16 18:46:44,891 - INFO - Files saved in: scraped_site
+2024-12-16 18:48:40,071 - INFO - patching driver executable /Users/tom/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-12-16 18:48:42,851 - INFO - Chrome initialized successfully
+2024-12-16 18:48:42,851 - INFO - Starting scrape of https://henryheffernan.com
+2024-12-16 18:48:42,856 - INFO - Processing page: https://henryheffernan.com
+2024-12-16 18:48:43,799 - INFO - Found 22 resources to download
+2024-12-16 18:48:43,863 - WARNING - Failed to download https://henryheffernan.com/02: Status 404
+2024-12-16 18:48:43,864 - INFO - Downloaded: https://henryheffernan.com -> scraped_site/index.html
+2024-12-16 18:48:43,864 - WARNING - Failed to download https://henryheffernan.com/=: Status 404
+2024-12-16 18:48:43,865 - WARNING - Failed to download https://henryheffernan.com/~: Status 404
+2024-12-16 18:48:43,867 - WARNING - Failed to download https://henryheffernan.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcde/gGTMag/desGTMinaGTMionghijklmnopqrsGTMuvep.xyz0123456789GTMm.js: Status 404
+2024-12-16 18:48:43,870 - WARNING - Failed to download https://henryheffernan.com/!: Status 404
+2024-12-16 18:48:43,873 - WARNING - Failed to download https://henryheffernan.com/*: Status 404
+2024-12-16 18:48:43,874 - WARNING - Failed to download https://henryheffernan.com/,: Status 404
+2024-12-16 18:48:43,875 - WARNING - Failed to download https://henryheffernan.com/&: Status 404
+2024-12-16 18:48:43,877 - WARNING - Failed to download https://henryheffernan.com/\fobjC]onedMfunctionterotateifunction]:objC]onedMfunctionterotateifunction]:cttnobjC]onedMfunctionterotateifunction]:cttion: Status 404
+2024-12-16 18:48:43,877 - WARNING - Failed to download https://henryheffernan.com/@emotion/is-prop-valid: Status 404
+2024-12-16 18:48:43,877 - INFO - Downloaded: https://henryheffernan.com/main.css -> scraped_site/main.css
+2024-12-16 18:48:43,878 - INFO - Downloaded: https://henryheffernan.com/ -> scraped_site/index.html
+2024-12-16 18:48:43,878 - WARNING - Failed to download https://henryheffernan.com/|: Status 404
+2024-12-16 18:48:43,879 - WARNING - Failed to download https://henryheffernan.com/01: Status 404
+2024-12-16 18:48:43,882 - INFO - Downloaded: https://henryheffernan.com/images/preview-new.jpg -> scraped_site/images/preview-new.jpg
+2024-12-16 18:48:43,886 - WARNING - Failed to download https://henryheffernan.com/$: Status 404
+2024-12-16 18:48:43,900 - INFO - Downloaded: https://henryheffernan.com/bundle.cf64568055686c74.js -> scraped_site/bundle.cf64568055686c74.js
+2024-12-16 18:48:43,951 - WARNING - Failed to download https://henryheffernan.com/\r\n: Status 404
+2024-12-16 18:48:43,955 - INFO - Downloaded: https://henryheffernan.com/c28874fa5b347023.mp4 -> scraped_site/c28874fa5b347023.mp4
+2024-12-16 18:48:43,964 - INFO - Downloaded: https://henryheffernan.com/78d1c080b40532e6.mp4 -> scraped_site/78d1c080b40532e6.mp4
+2024-12-16 18:48:44,067 - INFO - Scraping completed! Downloaded 7 files
+2024-12-16 18:48:44,067 - INFO - Files saved in: scraped_site
+2024-12-16 18:49:49,633 - INFO - patching driver executable /Users/tom/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-12-16 18:49:52,425 - INFO - Chrome initialized successfully
+2024-12-16 18:49:52,429 - INFO - Starting scrape of https://henryheffernan.com
+2024-12-16 18:49:52,429 - INFO - Processing page: https://henryheffernan.com
+2024-12-16 18:52:16,859 - ERROR - Error processing https://henryheffernan.com: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-12-16 18:52:57,146 - INFO - patching driver executable /Users/tom/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-12-16 18:52:59,918 - INFO - Chrome initialized successfully
+2024-12-16 18:52:59,919 - INFO - Starting scrape of https://henryheffernan.com
+2024-12-16 18:52:59,923 - INFO - Processing page: https://henryheffernan.com
+2024-12-16 18:53:00,655 - INFO - Found 43 resources to download
+2024-12-16 18:53:00,730 - INFO - Downloaded: https://henryheffernan.com -> scraped_site/index.html
+2024-12-16 18:53:00,732 - INFO - Downloaded: https://henryheffernan.com/audio/keyboard/key_3.mp3 -> scraped_site/audio/keyboard/key_3.mp3
+2024-12-16 18:53:00,732 - WARNING - Failed to download https://henryheffernan.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcde/gGTMag/desGTMinaGTMionghijklmnopqrsGTMuvep.xyz0123456789GTMm.js: Status 404
+2024-12-16 18:53:00,732 - WARNING - Failed to download https://henryheffernan.com/~: Status 404
+2024-12-16 18:53:00,738 - INFO - Downloaded: https://henryheffernan.com/audio/keyboard/key_6.mp3 -> scraped_site/audio/keyboard/key_6.mp3
+2024-12-16 18:53:00,739 - INFO - Downloaded: https://henryheffernan.com/ -> scraped_site/index.html
+2024-12-16 18:53:00,739 - INFO - Downloaded: https://henryheffernan.com/main.css -> scraped_site/main.css
+2024-12-16 18:53:00,739 - WARNING - Failed to download https://henryheffernan.com/01: Status 404
+2024-12-16 18:53:00,740 - INFO - Downloaded: https://henryheffernan.com/audio/keyboard/key_1.mp3 -> scraped_site/audio/keyboard/key_1.mp3
+2024-12-16 18:53:00,741 - WARNING - Failed to download https://henryheffernan.com/,: Status 404
+2024-12-16 18:53:00,741 - WARNING - Failed to download https://henryheffernan.com/\r\n: Status 404
+2024-12-16 18:53:00,741 - WARNING - Failed to download https://henryheffernan.com/|: Status 404
+2024-12-16 18:53:00,741 - WARNING - Failed to download https://henryheffernan.com/$: Status 404
+2024-12-16 18:53:00,743 - INFO - Downloaded: https://henryheffernan.com/audio/keyboard/key_4.mp3 -> scraped_site/audio/keyboard/key_4.mp3
+2024-12-16 18:53:00,743 - INFO - Downloaded: https://henryheffernan.com/ffbcd8e4fac59356.ico -> scraped_site/ffbcd8e4fac59356.ico
+2024-12-16 18:53:00,744 - WARNING - Failed to download https://henryheffernan.com/*: Status 404
+2024-12-16 18:53:00,744 - WARNING - Failed to download https://henryheffernan.com/&: Status 404
+2024-12-16 18:53:00,745 - INFO - Downloaded: https://henryheffernan.com/audio/cc/type.mp3 -> scraped_site/audio/cc/type.mp3
+2024-12-16 18:53:00,746 - INFO - Downloaded: https://henryheffernan.com/audio/keyboard/key_5.mp3 -> scraped_site/audio/keyboard/key_5.mp3
+2024-12-16 18:53:00,747 - INFO - Downloaded: https://henryheffernan.com/images/preview-new.jpg -> scraped_site/images/preview-new.jpg
+2024-12-16 18:53:00,747 - WARNING - Failed to download https://henryheffernan.com/02: Status 404
+2024-12-16 18:53:00,748 - INFO - Downloaded: https://henryheffernan.com/audio/mouse/mouse_up.mp3 -> scraped_site/audio/mouse/mouse_up.mp3
+2024-12-16 18:53:00,749 - WARNING - Failed to download https://henryheffernan.com/\fobjC]onedMfunctionterotateifunction]:objC]onedMfunctionterotateifunction]:cttnobjC]onedMfunctionterotateifunction]:cttion: Status 404
+2024-12-16 18:53:00,750 - INFO - Downloaded: https://henryheffernan.com/audio/keyboard/key_2.mp3 -> scraped_site/audio/keyboard/key_2.mp3
+2024-12-16 18:53:00,750 - WARNING - Failed to download https://henryheffernan.com/=: Status 404
+2024-12-16 18:53:00,751 - WARNING - Failed to download https://henryheffernan.com/@emotion/is-prop-valid: Status 404
+2024-12-16 18:53:00,752 - INFO - Downloaded: https://henryheffernan.com/audio/mouse/mouse_down.mp3 -> scraped_site/audio/mouse/mouse_down.mp3
+2024-12-16 18:53:00,758 - INFO - Downloaded: https://henryheffernan.com/bundle.cf64568055686c74.js -> scraped_site/bundle.cf64568055686c74.js
+2024-12-16 18:53:00,761 - INFO - Downloaded: https://henryheffernan.com/textures/monitor/layers/compressed/shadow-compressed.png -> scraped_site/textures/monitor/layers/compressed/shadow-compressed.png
+2024-12-16 18:53:00,762 - INFO - Downloaded: https://henryheffernan.com/models/Decor/decor.glb -> scraped_site/models/Decor/decor.glb
+2024-12-16 18:53:00,762 - INFO - Downloaded: https://henryheffernan.com/models/Computer/computer_setup.glb -> scraped_site/models/Computer/computer_setup.glb
+2024-12-16 18:53:00,763 - INFO - Downloaded: https://henryheffernan.com/models/World/environment.glb -> scraped_site/models/World/environment.glb
+2024-12-16 18:53:00,773 - INFO - Downloaded: https://henryheffernan.com/audio/startup/startup.mp3 -> scraped_site/audio/startup/startup.mp3
+2024-12-16 18:53:00,775 - INFO - Downloaded: https://henryheffernan.com/textures/monitor/layers/compressed/smudges.jpg -> scraped_site/textures/monitor/layers/compressed/smudges.jpg
+2024-12-16 18:53:00,785 - INFO - Downloaded: https://henryheffernan.com/models/World/baked_environment.jpg -> scraped_site/models/World/baked_environment.jpg
+2024-12-16 18:53:00,796 - WARNING - Failed to download https://henryheffernan.com/!: Status 404
+2024-12-16 18:53:00,803 - INFO - Downloaded: https://henryheffernan.com/models/Decor/baked_decor_modified.jpg -> scraped_site/models/Decor/baked_decor_modified.jpg
+2024-12-16 18:53:00,805 - INFO - Downloaded: https://henryheffernan.com/audio/atmosphere/office.mp3 -> scraped_site/audio/atmosphere/office.mp3
+2024-12-16 18:53:00,809 - INFO - Downloaded: https://henryheffernan.com/models/Computer/baked_computer.jpg -> scraped_site/models/Computer/baked_computer.jpg
+2024-12-16 18:53:00,813 - INFO - Downloaded: https://henryheffernan.com/c28874fa5b347023.mp4 -> scraped_site/c28874fa5b347023.mp4
+2024-12-16 18:53:00,817 - WARNING - Failed to download https://www.google-analytics.com/g/collect?v=2&tid=G-4FJBF6WF60&gtm=45je4cc1v872429956za200&_p=1734403979989&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101925629~102067555~102067808~102081485~102198178&cid=270581246.1734403980&ul=en-us&sr=2560x1440&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B131.0.6778.140%7CChromium%3B131.0.6778.140%7CNot_A%2520Brand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=14.4.1&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1734403980&sct=1&seg=0&dl=https%3A%2F%2Fhenryheffernan.com%2F&dt=Henry%20Heffernan%20-%20Portfolio%202022&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=203: Status 204
+2024-12-16 18:53:00,953 - INFO - Downloaded: https://henryheffernan.com/78d1c080b40532e6.mp4 -> scraped_site/78d1c080b40532e6.mp4
+2024-12-16 18:53:00,954 - INFO - Scraping completed! Downloaded 27 files
+2024-12-16 18:53:00,954 - INFO - Files saved in: scraped_site
+2024-12-16 18:55:49,471 - INFO - patching driver executable /Users/tom/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-12-16 18:55:52,256 - INFO - Chrome initialized successfully
+2024-12-16 18:55:52,257 - INFO - Starting scrape of https://henryheffernan.com
+2024-12-16 18:55:52,257 - INFO - Processing page: https://henryheffernan.com
+2024-12-16 18:56:51,147 - INFO - patching driver executable /Users/tom/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-12-16 18:56:53,736 - INFO - Chrome initialized successfully
+2024-12-16 18:56:53,737 - INFO - Starting scrape of https://henryheffernan.com
+2024-12-16 18:56:53,737 - INFO - Processing page: https://henryheffernan.com
+2024-12-16 18:57:52,958 - INFO - Found 47 resources to download
+2024-12-16 18:57:53,036 - INFO - Downloaded: https://henryheffernan.com/main.css -> scraped_site/main.css
+2024-12-16 18:57:53,039 - INFO - Downloaded: https://henryheffernan.com/ -> scraped_site/index.html
+2024-12-16 18:57:53,040 - INFO - Downloaded: https://henryheffernan.com/audio/mouse/mouse_down.mp3 -> scraped_site/audio/mouse/mouse_down.mp3
+2024-12-16 18:57:53,041 - INFO - Downloaded: https://henryheffernan.com/audio/keyboard/key_1.mp3 -> scraped_site/audio/keyboard/key_1.mp3
+2024-12-16 18:57:53,041 - WARNING - Failed to download https://henryheffernan.com/&: Status 404
+2024-12-16 18:57:53,042 - WARNING - Failed to download https://henryheffernan.com/=: Status 404
+2024-12-16 18:57:53,043 - INFO - Downloaded: https://henryheffernan.com/audio/mouse/mouse_up.mp3 -> scraped_site/audio/mouse/mouse_up.mp3
+2024-12-16 18:57:53,043 - WARNING - Failed to download https://henryheffernan.com/\fobjC]onedMfunctionterotateifunction]:objC]onedMfunctionterotateifunction]:cttnobjC]onedMfunctionterotateifunction]:cttion: Status 404
+2024-12-16 18:57:53,043 - INFO - Downloaded: https://henryheffernan.com/audio/keyboard/key_2.mp3 -> scraped_site/audio/keyboard/key_2.mp3
+2024-12-16 18:57:53,048 - WARNING - Failed to download https://henryheffernan.com/02: Status 404
+2024-12-16 18:57:53,049 - INFO - Downloaded: https://henryheffernan.com/ffbcd8e4fac59356.ico -> scraped_site/ffbcd8e4fac59356.ico
+2024-12-16 18:57:53,049 - WARNING - Failed to download https://henryheffernan.com/*: Status 404
+2024-12-16 18:57:53,050 - INFO - Downloaded: https://henryheffernan.com/assets/images/0a262c7c9669cd40.svg -> scraped_site/assets/images/0a262c7c9669cd40.svg
+2024-12-16 18:57:53,050 - WARNING - Failed to download https://henryheffernan.com/@emotion/is-prop-valid: Status 404
+2024-12-16 18:57:53,050 - WARNING - Failed to download https://henryheffernan.com/$: Status 404
+2024-12-16 18:57:53,051 - WARNING - Failed to download https://henryheffernan.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcde/gGTMag/desGTMinaGTMionghijklmnopqrsGTMuvep.xyz0123456789GTMm.js: Status 404
+2024-12-16 18:57:53,051 - WARNING - Failed to download https://henryheffernan.com/!: Status 404
+2024-12-16 18:57:53,053 - WARNING - Failed to download https://henryheffernan.com/\r\n: Status 404
+2024-12-16 18:57:53,054 - WARNING - Failed to download https://henryheffernan.com/~: Status 404
+2024-12-16 18:57:53,055 - WARNING - Failed to download https://henryheffernan.com/01: Status 404
+2024-12-16 18:57:53,057 - INFO - Downloaded: https://henryheffernan.com/audio/keyboard/key_4.mp3 -> scraped_site/audio/keyboard/key_4.mp3
+2024-12-16 18:57:53,057 - INFO - Downloaded: https://henryheffernan.com/audio/cc/type.mp3 -> scraped_site/audio/cc/type.mp3
+2024-12-16 18:57:53,058 - INFO - Downloaded: https://henryheffernan.com/models/Computer/computer_setup.glb -> scraped_site/models/Computer/computer_setup.glb
+2024-12-16 18:57:53,058 - INFO - Downloaded: https://henryheffernan.com/audio/keyboard/key_6.mp3 -> scraped_site/audio/keyboard/key_6.mp3
+2024-12-16 18:57:53,059 - WARNING - Failed to download https://henryheffernan.com/,: Status 404
+2024-12-16 18:57:53,059 - INFO - Downloaded: https://henryheffernan.com -> scraped_site/index.html
+2024-12-16 18:57:53,060 - INFO - Downloaded: https://henryheffernan.com/assets/images/fa9623e40006eda6.svg -> scraped_site/assets/images/fa9623e40006eda6.svg
+2024-12-16 18:57:53,061 - INFO - Downloaded: https://henryheffernan.com/audio/keyboard/key_5.mp3 -> scraped_site/audio/keyboard/key_5.mp3
+2024-12-16 18:57:53,062 - WARNING - Failed to download https://henryheffernan.com/|: Status 404
+2024-12-16 18:57:53,063 - INFO - Downloaded: https://henryheffernan.com/audio/keyboard/key_3.mp3 -> scraped_site/audio/keyboard/key_3.mp3
+2024-12-16 18:57:53,067 - INFO - Downloaded: https://henryheffernan.com/images/preview-new.jpg -> scraped_site/images/preview-new.jpg
+2024-12-16 18:57:53,069 - INFO - Downloaded: https://henryheffernan.com/models/Decor/decor.glb -> scraped_site/models/Decor/decor.glb
+2024-12-16 18:57:53,073 - INFO - Downloaded: https://henryheffernan.com/models/World/environment.glb -> scraped_site/models/World/environment.glb
+2024-12-16 18:57:53,076 - INFO - Downloaded: https://henryheffernan.com/audio/startup/startup.mp3 -> scraped_site/audio/startup/startup.mp3
+2024-12-16 18:57:53,080 - INFO - Downloaded: https://henryheffernan.com/bundle.cf64568055686c74.js -> scraped_site/bundle.cf64568055686c74.js
+2024-12-16 18:57:53,083 - INFO - Downloaded: https://henryheffernan.com/textures/monitor/layers/compressed/smudges.jpg -> scraped_site/textures/monitor/layers/compressed/smudges.jpg
+2024-12-16 18:57:53,092 - INFO - Downloaded: https://henryheffernan.com/audio/atmosphere/office.mp3 -> scraped_site/audio/atmosphere/office.mp3
+2024-12-16 18:57:53,100 - INFO - Downloaded: https://henryheffernan.com/textures/monitor/layers/compressed/shadow-compressed.png -> scraped_site/textures/monitor/layers/compressed/shadow-compressed.png
+2024-12-16 18:57:53,102 - INFO - Downloaded: https://henryheffernan.com/models/World/baked_environment.jpg -> scraped_site/models/World/baked_environment.jpg
+2024-12-16 18:57:53,123 - INFO - Downloaded: https://henryheffernan.com/models/Decor/baked_decor_modified.jpg -> scraped_site/models/Decor/baked_decor_modified.jpg
+2024-12-16 18:57:53,127 - INFO - Downloaded: https://henryheffernan.com/c28874fa5b347023.mp4 -> scraped_site/c28874fa5b347023.mp4
+2024-12-16 18:57:53,128 - WARNING - Failed to download https://www.google-analytics.com/g/collect?v=2&tid=G-4FJBF6WF60&gtm=45je4cc1v872429956za200&_p=1734404213801&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101925629~102067555~102067808~102081485~102198178&cid=836191371.1734404214&ul=en-us&sr=2560x1440&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B131.0.6778.140%7CChromium%3B131.0.6778.140%7CNot_A%2520Brand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=14.4.1&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1734404214&sct=1&seg=0&dl=https%3A%2F%2Fhenryheffernan.com%2F&dt=Henry%20Heffernan%20-%20Portfolio%202022&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=404: Status 204
+2024-12-16 18:57:53,145 - WARNING - Failed to download https://www.google-analytics.com/g/collect?v=2&tid=G-4FJBF6WF60&gtm=45je4cc1v872429956za200&_p=1734404213801&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101925629~102067555~102067808~102081485~102198178&cid=836191371.1734404214&ul=en-us&sr=2560x1440&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B131.0.6778.140%7CChromium%3B131.0.6778.140%7CNot_A%2520Brand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=14.4.1&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEA&_s=2&sid=1734404214&sct=1&seg=0&dl=https%3A%2F%2Fhenryheffernan.com%2F&dt=Henry%20Heffernan%20-%20Portfolio%202022&en=scroll&epn.percent_scrolled=90&tfd=5414: Status 204
+2024-12-16 18:57:53,172 - INFO - Downloaded: https://henryheffernan.com/models/Computer/baked_computer.jpg -> scraped_site/models/Computer/baked_computer.jpg
+2024-12-16 18:57:53,194 - INFO - Downloaded: https://henryheffernan.com/78d1c080b40532e6.mp4 -> scraped_site/78d1c080b40532e6.mp4
+2024-12-16 18:57:53,232 - INFO - Scraping completed! Downloaded 29 files
+2024-12-16 18:57:53,232 - INFO - Files saved in: scraped_site
