@@ -1,47 +1,47 @@
-# Site Scraper
+# site scraper
 
-A robust web scraper that downloads entire websites with all their resources, maintaining the original directory structure.
+a robust web scraper that downloads entire websites with all their resources, maintaining the original directory structure.
 
-## Features
-- Downloads all site resources (JS, CSS, images, 3D models, audio, etc.)
-- Interactive mode for sites with dynamic content
-- Maintains original directory structure
-- Handles JavaScript-rendered content
-- Cross-platform (Windows, macOS, Linux)
+## features
+- downloads all site resources (js, css, images, 3d models, audio, etc.)
+- interactive mode for sites with dynamic content
+- maintains original directory structure
+- handles javascript-rendered content
+- cross-platform (windows, macos, linux)
 
-## Installation
+## installation
 
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/getyoursnackon/site-scraper.git
 cd site-scraper
 pip install -r requirements.txt
 ```
 
-## Usage
+## usage
 
-Basic scraping:
+basic scraping:
 ```bash
 python site_scraper.py https://example.com
 ```
 
-Interactive mode (for sites with dynamic content):
+interactive mode (for sites with dynamic content):
 ```bash
 python site_scraper.py -i https://example.com
 ```
 
-Custom output directory:
+custom output directory:
 ```bash
 python site_scraper.py https://example.com --output my_sites
 ```
 
-## Interactive Mode Commands
-- `done` - Start scraping the current state
-- `help` - Show help message
-- `url` - Show current URL
-- `wait` - Wait 5 more seconds for loading
-- `refresh` - Refresh the page
+## interactive mode commands
+- `done` - start scraping the current state
+- `help` - show help message
+- `url` - show current url
+- `wait` - wait 5 more seconds for loading
+- `refresh` - refresh the page
 
-## Requirements
-- Python 3.7+
-- Chrome browser
-- See requirements.txt for Python packages 
+## requirements
+- python 3.7+
+- chrome browser
+- see requirements.txt for python packages 
